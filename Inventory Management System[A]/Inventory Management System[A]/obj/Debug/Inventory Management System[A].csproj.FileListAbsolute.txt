@@ -1,0 +1,26 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory Management System[A].csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory_Management_System_A_.Presentation_Layer.CategoryManagement.resources
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory_Management_System_A_.Properties.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory Management System[A].csproj.GenerateResource.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory Management System[A].csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Inventory Management System[A]\Inventory Management System[A]\bin\Debug\Inventory Management System[A].exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Inventory Management System[A]\Inventory Management System[A]\bin\Debug\Inventory Management System[A].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Inventory Management System[A]\Inventory Management System[A]\bin\Debug\Inventory Management System[A].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory Management System[A].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory Management System[A].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory_Management_System_A_.Presentation_Layer.ProductManagement.resources
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory_Management_System_A_.Presentation_Layer.Home.resources
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Fall 2020-21\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory_Management_System_A_.Presentation_Layer.Login.resources
+C:\Users\Admin\Downloads\Inventory Management System[A]\Inventory Management System[A]\bin\Debug\Inventory Management System[A].exe.config
+C:\Users\Admin\Downloads\Inventory Management System[A]\Inventory Management System[A]\bin\Debug\Inventory Management System[A].exe
+C:\Users\Admin\Downloads\Inventory Management System[A]\Inventory Management System[A]\bin\Debug\Inventory Management System[A].pdb
+C:\Users\Admin\Downloads\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory Management System[A].csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory_Management_System_A_.Presentation_Layer.CategoryManagement.resources
+C:\Users\Admin\Downloads\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory_Management_System_A_.Presentation_Layer.Home.resources
+C:\Users\Admin\Downloads\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory_Management_System_A_.Presentation_Layer.Login.resources
+C:\Users\Admin\Downloads\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory_Management_System_A_.Presentation_Layer.ProductManagement.resources
+C:\Users\Admin\Downloads\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory_Management_System_A_.Properties.Resources.resources
+C:\Users\Admin\Downloads\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory Management System[A].csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory Management System[A].csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory Management System[A].exe
+C:\Users\Admin\Downloads\Inventory Management System[A]\Inventory Management System[A]\obj\Debug\Inventory Management System[A].pdb
